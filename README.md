@@ -11,7 +11,7 @@ http://www.jp.t2softworks.com/php/s1.htm
 https://weblabo.oscasierra.net/php-composer-windows-install/
 
 ### Laravel プロジェクト作成
-https://sejuku.net/blog/106106
+https://qiita.com/haxpig/items/ae9b89a6244d4b392bf9
 
 ## ルーティング
 https://awesome-linus.com/2019/06/03/laravel-tutorial-routing/
